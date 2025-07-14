@@ -66,12 +66,18 @@ crontab -e
 0 9 * * * /full/path/to/daily_maintenance.sh
 
 
-📬 Contact
+---
+
+
+### 📬 Contact
 📧 Email: royabdullah908@gmail.com
 💼 LinkedIn: Roay Muhammad Abdullah
 
 
-📄 License
+---
+
+
+## 📄 License
 This project is licensed under the MIT License.
 
 
