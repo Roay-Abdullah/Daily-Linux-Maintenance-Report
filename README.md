@@ -38,7 +38,7 @@ chmod +x daily_maintenance.sh
 sudo apt install msmtp msmtp-mta
 nano ~/.msmtprc
 
-## Sample Gmail config:
+### Sample Gmail config:
 
 defaults
 auth on
