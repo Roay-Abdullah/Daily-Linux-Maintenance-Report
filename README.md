@@ -28,7 +28,7 @@ Welcome to my first step toward becoming a DevSecOps engineer! This repository c
 ## ⚙️ Setup Instructions
 
 ### 1. Clone this repo
-git clone https://github.com/roay-abdullah/daily-linux-maintenance.git
+git clone https://github.com/Roay-Abdullah/daily-linux-maintenance.git
 cd daily-linux-maintenance
 
 ### 2. Make the script executable
