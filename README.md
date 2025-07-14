@@ -57,7 +57,7 @@ account default : gmail
 
 🔐 Use app password, not your main Gmail password.
 
-# Then test:
+#### Then test:
 echo "Test email body" | msmtp your_email@gmail.com
 
 
@@ -77,7 +77,7 @@ crontab -e
 ---
 
 
-## 📄 License
+### 📄 License
 This project is licensed under the MIT License.
 
 
